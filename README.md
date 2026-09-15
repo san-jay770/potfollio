@@ -1,27 +1,27 @@
 <div align="center">
 
-  <!-- AI Glowing Avatar with Profile Photo -->
-  <a href="https://github.com/san-jay770/potfollio">
-    <img src="https://raw.githubusercontent.com/san-jay770/potfollio/main/profile.jpeg" width="160" height="160" style="border-radius: 50%; border: 3px solid #0EA5E9; box-shadow: 0 0 25px #0EA5E9;" alt="Sanjay S Profile" />
+  <!-- Glowing Animated Profile Image -->
+  <a href="https://github.com/san-jay770">
+    <img src="https://raw.githubusercontent.com/san-jay770/potfollio/main/profile.jpeg" width="170" height="170" style="border-radius: 50%; border: 3px solid #00F2FE; box-shadow: 0 0 25px #00F2FE;" alt="Sanjay S Profile" />
   </a>
 
   <br /><br />
 
-  <!-- Animated Cyber Cyan AI Banner -->
+  <!-- Dynamic Typing Animated Header -->
   <a href="https://sanjay-portfollio-11.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vcenter=true&width=650&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems;🚀+Transforming+Ideas+into+Smart+Code" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <strong>Full Stack & AI Developer</strong> | Specializing in AI Integration, LLM Applications & Interactive Web Platforms.
   </p>
 
-  <!-- Interactive Action Badges -->
+  <!-- Interactive Glowing Action Badges -->
   <p align="center">
     <a href="https://sanjay-portfollio-11.netlify.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Live Portfolio" />
     </a>
-    <a href="mailto:sanjaysanjayt19@gmail.com">
+    <a href="mailto:sanjay@example.com">
       <img src="https://img.shields.io/badge/✉️_Get_In_Touch-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
     </a>
   </p>
@@ -82,11 +82,17 @@
 
 ---
 
-### 📊 AI & Engineering Analytics
+### 📊 AI & Engineering Analytics (Animated Cards)
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=san-jay770&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san-jay770&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=san-jay770&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -100,7 +106,7 @@
   <a href="https://github.com/san-jay770">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sanjay-senthil-kumar">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
