@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Animated Glowing Profile Picture -->
-  <a href="https://github.com/san-jay770">
-    <img src="https://github.com/san-jay770.png" width="160" height="160" style="border-radius: 50%; border: 3px solid #0EA5E9; box-shadow: 0 0 20px rgba(14, 165, 233, 0.6);" alt="Sanjay S Profile" />
+  <!-- Personalized Animated Profile Asset (Vector Representation of Sanjay S) -->
+  <a href="https://sanjay-portfollio-11.netlify.app/">
+    <img src="https://img.shields.io/badge/Sanjay_S-Full_Stack_&_AI_Developer-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="Sanjay S Professional Status" />
   </a>
 
-  <br /><br />
+  <br />
 
-  <!-- AI Theme Animated Typing Header -->
+  <!-- Animated AI Theme Typing Banner -->
   <a href="https://sanjay-portfollio-11.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems" alt="Typing SVG" />
   </a>
 
   <p align="center">
