@@ -1,19 +1,26 @@
+GitHub-la local file paths (`file:///...`) matrum direct `blob` page links load aagadhu. Adhanala dhaan photo kaattama broken image icon ah varudhu.
+
+Unga repository-la irukura `profile.jpeg` file-oda **Raw Link**-ah use panna image correct-ah show aagum.
+
+Keela irukura update panna `README.md` code-ah அப்படியே copy panni paste pannaikonga:
+
+```markdown
 <div align="center">
 
-  <!-- Personalized Animated Profile Asset (Vector Representation of Sanjay S) -->
-  <a href="https://sanjay-portfollio-11.netlify.app/">
-    <img src="https://img.shields.io/badge/Sanjay_S-Full_Stack_&_AI_Developer-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="Sanjay S Professional Status" />
+  <!-- Fixed Profile Photo with AI Neon Glow -->
+  <a href="https://github.com/san-jay770/potfollio">
+    <img src="https://raw.githubusercontent.com/san-jay770/potfollio/main/profile.jpeg" width="170" height="170" style="border-radius: 50%; border: 3px solid #0EA5E9; box-shadow: 0 0 20px rgba(14, 165, 233, 0.6); object-fit: cover;" alt="Sanjay S Profile" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- Animated AI Theme Typing Banner -->
   <a href="https://sanjay-portfollio-11.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=🤖+Hi%2C+I'm+Sanjay+S+%F0%9F%91%8B;⚡+Full+Stack+%26+AI+Engineer;🧠+Building+AI+Agents+%26+Web+Ecosystems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Full Stack & AI Developer</strong> | Specializing in AI Integration, LLM Applications & Interactive Web Platforms.
+    <strong>Full Stack & AI Developer</strong> | Final-year B.Tech AI & Data Science Student
   </p>
 
   <!-- Interactive Call To Action Badges -->
@@ -21,7 +28,7 @@
     <a href="https://sanjay-portfollio-11.netlify.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Live Portfolio" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:sanjaysanjayt19@gmail.com">
       <img src="https://img.shields.io/badge/✉️_Get_In_Touch-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
     </a>
   </p>
@@ -32,33 +39,32 @@
 
 ### 🧠 About Me & AI Focus
 
-🤖 Specialized in building **AI-powered web ecosystems**, integrating Large Language Models (LLMs), and crafting high-performance user interfaces.
+🤖 Specialized in building **AI-powered web ecosystems**, NLP models, and full-stack web applications.
 
-* 🔭 **Current Focus:** Developing intelligent web applications & automated workflows.
-* 🛠️ **Core Expertise:** AI API Integration, Full Stack Web Architecture, RESTful APIs.
-* 🌐 **Interactive Portfolio:** **[sanjay-portfollio-11.netlify.app](https://sanjay-portfollio-11.netlify.app/)**
+* 🎓 **Education:** Final Year B.Tech in Artificial Intelligence & Data Science (2022 – 2026)
+* 🛠️ **Core Expertise:** AI / ML, Web Architecture, Python, NLP & Document AI
+* 🌐 **Interactive Portfolio:** **[Sanjay S Portfolio](https://sanjay-portfollio-11.netlify.app/)**
 
 ---
 
-### 💻 AI & Full Stack Tech Matrix
+### 💻 Tech Stack & Ecosystem
 
 <table>
   <tr>
     <td width="22%" align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="22%" align="center"><strong>Backend & AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -73,17 +79,17 @@
 
 ---
 
-### 🏆 Featured Applications
+### 🚀 Featured Projects
 
-| Application | Stack | Demo | Code |
-| :--- | :--- | :---: | :---: |
-| **AI Interactive Portfolio** | React, Tailwind, Netlify | [Live Demo](https://sanjay-portfollio-11.netlify.app/) | [Source](https://github.com/san-jay770/potfollio) |
-| **AI Web Platform** | Python, OpenAI API, Next.js | [Live Demo](https://sanjay-portfollio-11.netlify.app/) | [Source](https://github.com/san-jay770/potfollio) |
-| **Full Stack Ecosystem** | Node.js, Express, React | [Live Demo](https://sanjay-portfollio-11.netlify.app/) | [Source](https://github.com/san-jay770/potfollio) |
+| Project | Description | Stack | Demo / Source |
+| :--- | :--- | :--- | :---: |
+| **Team Pulse** | Team Task & Progress Monitoring Platform | Python, Flask, SQLite, JS | [Live Demo](https://sanjay-portfollio-11.netlify.app/) |
+| **CampusAI** | AI-Powered College Assistant | Python, NLP, Document AI | [Live Demo](https://sanjay-portfollio-11.netlify.app/) |
+| **HR AI Assistant** | Full-Stack HR & Employee System | Flask, PostgreSQL, NLP | [Live Demo](https://sanjay-portfollio-11.netlify.app/) |
 
 ---
 
-### 📊 Engineering Stats & Activity
+### 📊 Engineering Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=san-jay770&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -92,7 +98,7 @@
 
 ---
 
-### 📬 Connect & Collaborate
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://sanjay-portfollio-11.netlify.app/">
@@ -101,7 +107,9 @@
   <a href="https://github.com/san-jay770">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/sanjay-senthil-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+```
